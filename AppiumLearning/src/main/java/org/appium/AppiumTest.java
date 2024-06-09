@@ -11,7 +11,7 @@ import org.junit.Test;
 public class AppiumTest {
     @Test
     public void firstScript() {
-
+//test
         //for ios use XCUITestOptions class
         UiAutomator2Options options = new UiAutomator2Options();
         options.setUdid("RZ8R81DWFKW");
